@@ -46,6 +46,7 @@
         "tabWidth": 4
     },
     "dependencies": {
+        "@secretlint/secretlint-rule-pattern": "^3.0.0",
         "@secretlint/secretlint-rule-preset-recommend": "^3.0.0",
         "secretlint": "^3.0.0"
     },
